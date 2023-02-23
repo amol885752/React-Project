@@ -1,0 +1,55 @@
+/* nav bar css */
+.nav{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: green;
+}
+
+/* add new button css */
+.addNewBtn{
+    display: flex;
+    justify-content: end;
+    margin-right: 15px;
+    margin-top: 20px;
+}
+
+/* Add new employee */
+.formHeading{
+    display: flex;
+    justify-content: center;
+}
+
+.addNewemp{
+    display: flex;
+    justify-content: center;
+}
+
+.subBtn{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+
+/* list of employee  */
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+
+  .mrg25{
+    margin: 25px;
+  }
